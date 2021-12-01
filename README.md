@@ -44,3 +44,5 @@ chmod +x ./run.sh
 
 `curl 127.0.0.1:8000/rest/logs`
 
+## Media reference
+I attached snapshots from build to post-get requests instead of video because I faced some issues recording my own screen. Worked procedures are named as filenames, for 4 snapshots in the folder demo-snapshot.
